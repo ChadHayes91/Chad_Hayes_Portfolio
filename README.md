@@ -18,7 +18,7 @@ GitHub Code Link:
 
 ### Links
 GitHub Page Link:    <br>
-Code Link: https://www.dropbox.com/s/xj6134sxdskmit3/TeamOOBException_ToysSouls.7z?dl=0 <br>
+Code Link: [https://www.dropbox.com/s/xj6134sxdskmit3/TeamOOBException_ToysSouls.7z?dl=0](https://www.dropbox.com/s/xj6134sxdskmit3/TeamOOBException_ToysSouls.7z?dl=0) <br>
 Note the code is a 7zip instead of GitHub since this project is rather large
 
 ### Project Skills
@@ -47,7 +47,7 @@ GitHub Code Link: [https://github.com/ChadHayes91/Graphics_Vector_Field](https:/
 
 ### Links
 GitHub Page Link:    <br>
-GitHub Code Link: https://github.com/gniehaus/NLP-Earning-Transcripts
+GitHub Code Link: [https://github.com/gniehaus/NLP-Earning-Transcripts](https://github.com/gniehaus/NLP-Earning-Transcripts)
 
 ### Project Skills
 <ol>
@@ -60,7 +60,7 @@ GitHub Code Link: https://github.com/gniehaus/NLP-Earning-Transcripts
 ## Project 5: CS 7641 Machine Learning <br> Expectations Investing
 
 ### Links
-GitHub Page Link: https://bkwatanabe.github.io/expectationsinvesting/  <br>
+GitHub Page Link: [https://bkwatanabe.github.io/expectationsinvesting/](https://bkwatanabe.github.io/expectationsinvesting/)  <br>
 GitHub Code Link: 
 
 ### Project Skills
