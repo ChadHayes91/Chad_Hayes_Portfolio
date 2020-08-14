@@ -43,7 +43,7 @@ GitHub Code Link: [https://github.com/ChadHayes91/Graphics_Vector_Field](https:/
 
 ### Project Description
 
-## Project 4: CS 7650 Natural Language Processing <br> Sentiment Analysis for Earning Trascripts (Investing Data)
+## Project 4: CS 7650 Natural Language Processing <br> Sentiment Analysis for Earning Trascripts (Financial Data)
 
 ### Links
 GitHub Page Link:    <br>
