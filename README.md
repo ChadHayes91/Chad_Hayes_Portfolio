@@ -9,7 +9,7 @@ GitHub Code Link:
 ## Project 2: CS 6491 Computer Graphics - 2D Well-Structured Vector Field Triangulation
 
 ### Links
-Webpage Link (for detailed information on this particular project): [https://chadhayes91.github.io/Well-Structured-Vector-Field-Triangulation] (https://chadhayes91.github.io/Well-Structured-Vector-Field-Triangulation) <br>
+Webpage Link (for detailed information on this particular project): [https://chadhayes91.github.io/Well-Structured-Vector-Field-Triangulation/](https://chadhayes91.github.io/Well-Structured-Vector-Field-Triangulation/) <br>
 GitHub Code Link: [https://github.com/ChadHayes91/Graphics_Vector_Field](https://github.com/ChadHayes91/Graphics_Vector_Field)
 
 ### Project Description
