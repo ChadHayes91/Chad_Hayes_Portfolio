@@ -60,9 +60,8 @@ GitHub Code Link: [https://github.com/gniehaus/NLP-Earning-Transcripts](https://
 
 ## Project 5: CS 7641 Machine Learning <br> Expectations Investing
 
-### Links
-GitHub Page Link: [https://bkwatanabe.github.io/expectationsinvesting/](https://bkwatanabe.github.io/expectationsinvesting/)  <br>
-GitHub Code Link: 
+### Link
+GitHub Page Link: [https://bkwatanabe.github.io/expectationsinvesting/](https://bkwatanabe.github.io/expectationsinvesting/)  <br> 
 
 ### Project Skills
 <ol>
