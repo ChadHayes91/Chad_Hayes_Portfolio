@@ -6,6 +6,7 @@ GitHub Code:
 
 ### Project Skills
 <ol>
+  <li> Programming in Java </li>
   <li> Computer Graphics </li>
   <li> Artificial Intelligence (Path Finding & Planning) </li>
   <li> Geometry & Trigonometry </li>
@@ -26,7 +27,7 @@ The code is in the "Assets" -> "Scripts" folder.
 ### Project Skills
 <ol>
   <li> Artificial Intelligence (Path Finding & NPC Behavior: FSM) </li>
-  <li> Unity Game Engine </li>
+  <li> Unity Game Engine  (Programming in C#) </li>
   <li> 3D Modeling & Animations </li>
   <li> Geometry & Linear Algebra </li>
 </ol>
@@ -40,6 +41,7 @@ GitHub Code: [https://github.com/ChadHayes91/Graphics_Vector_Field](https://gith
 ### Project Skills
 <ol>
   <li> Computer Graphics </li>
+  <li> Programming in Java </li>
   <li> Geometry & Trigonometry </li>
   <li> Linear Algebra </li>
 </ol>
@@ -55,6 +57,7 @@ GitHub Code: [https://github.com/gniehaus/NLP-Earning-Transcripts](https://githu
 ### Project Skills
 <ol>
   <li> Machine Learning Algorithms (Including Deep Learning)</li>
+  <li> Programming in Python </li>
   <li> Natural Language Processing (Sentiment Analysis) </li>
 </ol>
 
@@ -68,6 +71,7 @@ GitHub Page: [https://bkwatanabe.github.io/expectationsinvesting/](https://bkwat
 ### Project Skills
 <ol>
   <li> Machine Learning Algorithms (Including Deep Learning)</li>
+  <li> Programming in Python </li>
 </ol>
 
 ### Project Description
