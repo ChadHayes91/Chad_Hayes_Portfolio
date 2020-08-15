@@ -40,8 +40,8 @@ GitHub Code: [https://github.com/ChadHayes91/Graphics_Vector_Field](https://gith
 
 ### Project Skills
 <ol>
-  <li> Computer Graphics </li>
   <li> Programming in Java </li>
+  <li> Computer Graphics </li>
   <li> Geometry & Trigonometry </li>
   <li> Linear Algebra </li>
 </ol>
@@ -56,9 +56,10 @@ GitHub Code: [https://github.com/gniehaus/NLP-Earning-Transcripts](https://githu
 
 ### Project Skills
 <ol>
-  <li> Machine Learning Algorithms (Including Deep Learning)</li>
   <li> Programming in Python </li>
+  <li> Machine Learning Algorithms (Including Deep Learning)</li>
   <li> Natural Language Processing (Sentiment Analysis) </li>
+  <li> Scikit-learn & Keras </li>
 </ol>
 
 ### Project Description
@@ -70,8 +71,9 @@ GitHub Page: [https://bkwatanabe.github.io/expectationsinvesting/](https://bkwat
 
 ### Project Skills
 <ol>
-  <li> Machine Learning Algorithms (Including Deep Learning)</li>
   <li> Programming in Python </li>
+  <li> Machine Learning Algorithms (Including Deep Learning)</li>
+  <li> Scikit-learn & Keras </li>
 </ol>
 
 ### Project Description
