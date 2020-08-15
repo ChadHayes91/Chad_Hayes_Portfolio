@@ -3,8 +3,8 @@ Each project below contains at least one link to a GitHub page which contains a 
 ## Project 1: CS 6491 Computer Graphics <br> 3D Tetrahedron Robot with A* Pathfinding
 
 ### Links
-GitHub Page: [https://github.com/ChadHayes91/Graphics_AStar_TetRobot](https://github.com/ChadHayes91/Graphics_AStar_TetRobot)    <br>
-GitHub Code:
+GitHub Page:     <br>
+GitHub Code: [https://github.com/ChadHayes91/Graphics_AStar_TetRobot](https://github.com/ChadHayes91/Graphics_AStar_TetRobot)
 
 ### Project Skills
 <ol>
