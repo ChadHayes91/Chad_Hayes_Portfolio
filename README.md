@@ -1,4 +1,4 @@
-Each project below contains at least one link to a GitHub page which contains a project description as well as implementation details. If applicable (occasionally a group member does not want to publically show all code if they plan on using it for other purposes), there is also a link to a GitHub page for the project's code.
+Each project below contains at least one link to a GitHub page which contains a project description as well as implementation details. If applicable (occasionally a group member does not want to publically show all code if they plan on using it for other purposes), there is also a link to a GitHub repository for a particular project's code.
 
 ## Project 1: CS 6491 Computer Graphics <br> 3D Tetrahedron Robot with A* Pathfinding
 
