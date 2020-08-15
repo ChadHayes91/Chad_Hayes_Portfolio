@@ -1,4 +1,6 @@
-## Project 1: CS 6491 Computer Graphics <br> 3D Tetrahedron Robot Movement with A* Pathfinding
+Each project below contains at least one link to a GitHub page which contains a project description as well as implementation details. If applicable (occasionally a group member does not want to publically show all code if they plan on using it for other purposes), there is also a link to a GitHub page for the project's code.
+
+## Project 1: CS 6491 Computer Graphics <br> 3D Tetrahedron Robot with A* Pathfinding
 
 ### Links
 GitHub Page:    <br>
@@ -12,8 +14,6 @@ GitHub Code:
   <li> Geometry & Trigonometry </li>
   <li> Linear Algebra </li>
 </ol>
-
-### Project Description
 
 ## Project 2: CS 6457 Video Game Design <br> Toy Souls
 
@@ -46,8 +46,6 @@ GitHub Code: [https://github.com/ChadHayes91/Graphics_Vector_Field](https://gith
   <li> Linear Algebra </li>
 </ol>
 
-### Project Description
-
 ## Project 4: CS 7650 Natural Language Processing <br> Sentiment Analysis for Earning Trascripts (Financial Data)
 
 ### Links
@@ -62,8 +60,6 @@ GitHub Code: [https://github.com/gniehaus/NLP-Earning-Transcripts](https://githu
   <li> Scikit-learn & Keras </li>
 </ol>
 
-### Project Description
-
 ## Project 5: CS 7641 Machine Learning <br> Expectations Investing
 
 ### Links
@@ -75,7 +71,3 @@ GitHub Page: [https://bkwatanabe.github.io/expectationsinvesting/](https://bkwat
   <li> Machine Learning Algorithms (Including Deep Learning)</li>
   <li> Scikit-learn & Keras </li>
 </ol>
-
-### Project Description
-
-
