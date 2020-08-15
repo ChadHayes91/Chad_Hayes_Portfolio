@@ -21,8 +21,8 @@ GitHub Code:
 GitHub Page: [https://chadhayes91.github.io/Toy_Souls/](https://chadhayes91.github.io/Toy_Souls/)   <br>
 Code & Exe: [https://www.dropbox.com/s/xj6134sxdskmit3/TeamOOBException_ToysSouls.7z?dl=0](https://www.dropbox.com/s/xj6134sxdskmit3/TeamOOBException_ToysSouls.7z?dl=0) <br>
 Note the code is in a 7zip format instead of GitHub since this project is rather large. <br>
-Download, extract, and go to "Build" -> "Toy Souls.exe" to run. <br>
-The code is in the "Assets" -> "Scripts" folder.
+Download, extract, and go to "Build" &rarr; "Toy Souls.exe" to run. <br>
+The code is in the "Assets" &rarr; "Scripts" folder.
 
 ### Project Skills
 <ol>
