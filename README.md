@@ -26,6 +26,7 @@ The code is in the "Assets" -> "Scripts" folder.
 ### Project Skills
 <ol>
   <li> Artificial Intelligence (Path Finding & NPC Behavior: FSM) </li>
+  <li> Unity Game Engine </li>
   <li> 3D Modeling & Animations </li>
   <li> Geometry & Linear Algebra </li>
 </ol>
