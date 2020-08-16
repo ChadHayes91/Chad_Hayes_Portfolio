@@ -1,4 +1,4 @@
-Each project below contains at least one link to a GitHub page which contains a project description as well as implementation details. If applicable (occasionally a group member does not want to publically show all code if they plan on using it for other purposes), there is also a link to a GitHub repository for a particular project's code.
+Each project below contains at least one link to a GitHub page which contains a project description as well as implementation details. If applicable, there is also a link to a GitHub repository for a particular project's code.
 
 ## Project 1: CS 6491 Computer Graphics <br> 3D Tetrahedron Robot with A* Pathfinding
 
@@ -61,6 +61,8 @@ GitHub Code: [https://github.com/gniehaus/NLP-Earning-Transcripts](https://githu
 </ol>
 
 ## Project 5: CS 7641 Machine Learning <br> Expectations Investing
+
+Note: a group member does not want to publically show all code since they plan on using it for personal purposes. Therefore, the GitHub code link is omitted for this project.
 
 ### Links
 GitHub Page: [https://bkwatanabe.github.io/expectationsinvesting/](https://bkwatanabe.github.io/expectationsinvesting/)  <br> 
