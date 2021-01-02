@@ -7,13 +7,11 @@ GitHub Page: [https://chadhayes91.github.io/Pathfinding_TetRobot/](https://chadh
 GitHub Code: [https://github.com/ChadHayes91/Graphics_AStar_TetRobot](https://github.com/ChadHayes91/Graphics_AStar_TetRobot)
 
 ### Project Skills
-<ol>
-  <li> Programming in Java </li>
-  <li> Computer Graphics </li>
-  <li> Artificial Intelligence (Path Finding & Planning) </li>
-  <li> Geometry & Trigonometry </li>
-  <li> Linear Algebra </li>
-</ol>
+* Programming in Java
+* Computer Graphics
+* Artificial Intelligence (Path Finding & Planning)
+* Geometry & Trigonometry
+* Linear Algebra
 
 ## Project 2: CS 6457 Video Game Design <br> Toy Souls
 
@@ -25,12 +23,10 @@ Download, extract, and go to "Build" &rarr; "Toy Souls.exe" to run. <br>
 The code is in the "Assets" &rarr; "Scripts" folder.
 
 ### Project Skills
-<ol>
-  <li> Artificial Intelligence (Path Finding & NPC Behavior: FSM) </li>
-  <li> Unity Game Engine  (Programming in C#) </li>
-  <li> 3D Modeling & Animations </li>
-  <li> Geometry & Linear Algebra </li>
-</ol>
+* Artificial Intelligence (Path Finding & NPC Behavior: FSM)
+* Unity Game Engine  (Programming in C#)
+* 3D Modeling & Animations
+* Geometry & Linear Algebra
 
 ## Project 3: CS 6491 Computer Graphics <br> 2D Well-Structured Vector Field Triangulation
 
@@ -39,12 +35,10 @@ GitHub Page: [https://chadhayes91.github.io/Well-Structured-Vector-Field-Triangu
 GitHub Code: [https://github.com/ChadHayes91/Graphics_Vector_Field](https://github.com/ChadHayes91/Graphics_Vector_Field)
 
 ### Project Skills
-<ol>
-  <li> Programming in Java </li>
-  <li> Computer Graphics </li>
-  <li> Geometry & Trigonometry </li>
-  <li> Linear Algebra </li>
-</ol>
+* Programming in Java
+* Computer Graphics
+* Geometry & Trigonometry
+* Linear Algebra
 
 ## Project 4: CS 7650 Natural Language Processing <br> Sentiment Analysis for Earning Trascripts (Financial Data)
 
@@ -53,12 +47,10 @@ GitHub Page:    <br>
 GitHub Code: [https://github.com/gniehaus/NLP-Earning-Transcripts](https://github.com/gniehaus/NLP-Earning-Transcripts)
 
 ### Project Skills
-<ol>
-  <li> Programming in Python </li>
-  <li> Machine Learning Algorithms (Including Deep Learning)</li>
-  <li> Natural Language Processing (Sentiment Analysis) </li>
-  <li> Scikit-learn & Keras </li>
-</ol>
+* Programming in Python
+* Machine Learning Algorithms (Including Deep Learning)
+* Natural Language Processing (Sentiment Analysis)
+* Scikit-learn & Keras
 
 ## Project 5: CS 7641 Machine Learning <br> Expectations Investing
 
@@ -68,8 +60,20 @@ Note: a group member does not want to publically show all code since they plan o
 GitHub Page: [https://bkwatanabe.github.io/expectationsinvesting/](https://bkwatanabe.github.io/expectationsinvesting/)  <br> 
 
 ### Project Skills
-<ol>
-  <li> Programming in Python </li>
-  <li> Machine Learning Algorithms (Including Deep Learning)</li>
-  <li> Scikit-learn & Keras </li>
-</ol>
+* Programming in Python
+* Machine Learning Algorithms (Including Deep Learning)
+* Scikit-learn & Keras
+
+## List of Courses Taken During MSCS with Descriptions
+
+* Artificial Intelligence (CS 6601)
+* Computer Graphics (CS 6491)
+* Video Game Design (CS 6457)
+* Machine Learning (CS 7641)
+* Natural Language (CS 7650)
+* Computer Vision (CS 6476)
+* Game AI (CS 7632)
+* Intro to Graduate Algorithms (CS 6515)
+* Deep Learning (CS 7643)
+* Simulation of Biology (CS 7692)
+* High Performance Computing (CSE 6220)
