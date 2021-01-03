@@ -67,6 +67,7 @@ GitHub Page: [https://bkwatanabe.github.io/expectationsinvesting/](https://bkwat
 ## List of Courses Taken During MSCS with Descriptions
 
 * Artificial Intelligence (CS 6601): Basic concepts and methods of artificial intelligence including both symbolic/conceptual and numerical/probabilistic techniques.
+  * F
 * Computer Graphics (CS 6491): Mathematical/physical/perceptual principles and modeling/rendering techniques used to create, represent, display, and animate models of 3D shapes and their properties.
 * Video Game Design (CS 6457): Techniques for electronic game design and programming, including graphics, game engines, animation, behavioral control for autonomous characters, interaction, social and interface issues of multi-user play.
 * Machine Learning (CS 7641): Machine learning techniques and applications. Topics include foundational issues; inductive, analytical, numerical, and theoretical approaches; and real-world applications.
