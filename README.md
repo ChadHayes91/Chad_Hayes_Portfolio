@@ -23,8 +23,9 @@ Download, extract, and go to "Build" &rarr; "Toy Souls.exe" to run. <br>
 The code is in the "Assets" &rarr; "Scripts" folder.
 
 ### Project Skills
+* Programming in C#
 * Artificial Intelligence (Path Finding & NPC Behavior: FSM)
-* Unity Game Engine  (Programming in C#)
+* Unity Game Engine
 * 3D Modeling & Animations
 * Geometry & Linear Algebra
 
