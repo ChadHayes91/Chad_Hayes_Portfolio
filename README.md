@@ -85,7 +85,7 @@ Note this project required a report to accompany the code, so the report below s
 
 ### Links
 GitHub Page (PDF): [https://github.com/ChadHayes91/DL_Report/blob/main/Report_PDF/DL_Project_Report.pdf](https://github.com/ChadHayes91/DL_Report/blob/main/Report_PDF/DL_Project_Report.pdf) <br>
-GitHub Code: [hhttps://github.com/ChadHayes91/DL_COVID19](https://github.com/ChadHayes91/DL_COVID19)  <br> 
+GitHub Code: [https://github.com/mliang1987/DL_F20_Project](https://github.com/mliang1987/DL_F20_Project)  <br> 
 
 ### Project Skills
 * Programming in Python
