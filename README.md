@@ -87,6 +87,9 @@ Note this project required a report to accompany the code, so the report below s
 GitHub Page (PDF): [https://github.com/ChadHayes91/DL_Report/blob/main/Report_PDF/DL_Project_Report.pdf](https://github.com/ChadHayes91/DL_Report/blob/main/Report_PDF/DL_Project_Report.pdf) <br>
 GitHub Code: [https://github.com/mliang1987/DL_F20_Project](https://github.com/mliang1987/DL_F20_Project)  <br> 
 
+Note that all code files are Jupyter notebooks (Python). "preprocessing_COVID.ipynb" implements downsampling (as well as some other standard data preprocessing techniques), and all other .ipynb files contain an individual deep learning model implementation (VGG, Densenet, and Xception).
+
+
 ### Project Skills
 * Programming in Python
 * Convolutional Neural Network (CNN) Architectures and Applications (Supervised)
