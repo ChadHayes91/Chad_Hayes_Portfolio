@@ -41,10 +41,12 @@ GitHub Code: [https://github.com/ChadHayes91/Graphics_Vector_Field](https://gith
 * Geometry & Trigonometry
 * Linear Algebra
 
-## Project 4: CS 7650 Natural Language Processing <br> Sentiment Analysis for Earning Trascripts (Financial Data)
+## Project 4: CS 7650 Natural Language Processing <br> Sentiment Analysis for Earning Transcripts (Financial Data)
+
+Note this project required a report which required answering a number of questions about the project's methodology. We've added the questions as well as corresponding answers to serve as the project description (so the GitHub page is instead a PDF for this project).
 
 ### Links
-GitHub Page:    <br>
+GitHub Page: [https://github.com/ChadHayes91/NLP_Report/blob/main/Report_PDF/NLP_Project_Report.pdf](https://github.com/ChadHayes91/NLP_Report/blob/main/Report_PDF/NLP_Project_Report.pdf) <br>
 GitHub Code: [https://github.com/gniehaus/NLP-Earning-Transcripts](https://github.com/gniehaus/NLP-Earning-Transcripts)
 
 ### Project Skills
@@ -55,7 +57,7 @@ GitHub Code: [https://github.com/gniehaus/NLP-Earning-Transcripts](https://githu
 
 ## Project 5: CS 7641 Machine Learning <br> Expectations Investing
 
-Note: a group member does not want to publically show all code since they plan on using it for personal purposes. Therefore, the GitHub code link is omitted for this project.
+Note: a group member does not want to publicly show all code since they plan on using it for personal purposes. Therefore, the GitHub code link is omitted for this project.
 
 ### Links
 GitHub Page: [https://bkwatanabe.github.io/expectationsinvesting/](https://bkwatanabe.github.io/expectationsinvesting/)  <br> 
