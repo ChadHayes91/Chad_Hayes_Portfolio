@@ -67,13 +67,13 @@ GitHub Page: [https://bkwatanabe.github.io/expectationsinvesting/](https://bkwat
 * Machine Learning Algorithms (Including Deep Learning)
 * Scikit-learn & Keras
 
-## Project 5: CS 7643 Deep Learning <br> COVID-19 Image Classification
+## Project 6: CS 7643 Deep Learning <br> COVID-19 Image Classification
 
 Note this project required a report which required answering a number of questions about the project's methodology. We've added the questions as well as corresponding answers to serve as the project description (so the GitHub page is instead a PDF for this project).
 
 ### Links
-GitHub Page: [https://github.com/ChadHayes91/NLP_Report/blob/main/Report_PDF/NLP_Project_Report.pdf](https://github.com/ChadHayes91/NLP_Report/blob/main/Report_PDF/NLP_Project_Report.pdf) <br>
-GitHub Page: [https://bkwatanabe.github.io/expectationsinvesting/](https://bkwatanabe.github.io/expectationsinvesting/)  <br> 
+GitHub Page: [https://github.com/ChadHayes91/DL_Report/blob/main/Report_PDF/DL_Project_Report.pdf](https://github.com/ChadHayes91/DL_Report/blob/main/Report_PDF/DL_Project_Report.pdf) <br>
+GitHub Code: [https://bkwatanabe.github.io/expectationsinvesting/](https://bkwatanabe.github.io/expectationsinvesting/)  <br> 
 
 ### Project Skills
 * Programming in Python
