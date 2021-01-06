@@ -35,7 +35,7 @@ The code is in the "Assets" &rarr; "Scripts" folder.
 
 ## Project 3: CS 6491 Computer Graphics <br> 2D Well-Structured Vector Field Triangulation
 
-This project also uses Processing (same as project 1) and an input vector field (a triangle mesh where each vertex also has a vector associated to it) to realign the input vector field so that the edges in the mesh's triangles follow the vector's directional flow.
+This project also used Processing (same as project 1) and an input vector field (a triangle mesh where each vertex also has a vector associated to it) to realign the input vector field so that the edges in the mesh's triangles follow the vector's directional flow.
 
 ### Links
 GitHub Page: [https://chadhayes91.github.io/Well-Structured-Vector-Field-Triangulation/](https://chadhayes91.github.io/Well-Structured-Vector-Field-Triangulation/) <br>
@@ -65,7 +65,7 @@ GitHub Code: [https://github.com/gniehaus/NLP-Earning-Transcripts](https://githu
 
 ## Project 5: CS 7641 Machine Learning <br> Expectations Investing
 
-This project uses classical machine learning algorithms to aid in fundamental analysis of the stock market. We apply a variety of algorithms with hyperparameter tuning in order to see which algorithms perform better at this difficult task.
+This project used classical machine learning algorithms to aid in fundamental analysis of the stock market. We apply a variety of algorithms with hyperparameter tuning in order to see which algorithms perform better at this difficult task.
 
 Note: a group member does not want to publicly show all code since they plan on using it for personal purposes. Therefore, the GitHub code link is omitted for this project.
 
@@ -79,7 +79,7 @@ GitHub Page: [https://bkwatanabe.github.io/expectationsinvesting/](https://bkwat
 
 ## Project 6: CS 7643 Deep Learning <br> COVID-19 Image Classification
 
-This project uses as input X-ray images from patients with a variety of health conditions (healthy, with viral pneumonia, and with COVID-19) along with modern convolutional neural network architectures to correctly classify the different types of X-rays.
+This project used as input X-ray images from patients with a variety of health conditions (healthy, with viral pneumonia, and with COVID-19) along with modern convolutional neural network architectures to classify the different types of X-rays.
 
 Note this project required a report to accompany the code, so the report below serves as the project description outline of methodology (so the GitHub page is instead a PDF for this project).
 
