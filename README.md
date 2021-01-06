@@ -5,7 +5,7 @@ Each project below contains at least one link to a GitHub page which contains a 
 This project used a tool called Processing (which serves a similar function as game engine) to create and render a robot with a tetrahedron core to move around on a canvas. The robot uses modern pathfinding techniques in order to reach the user's current mouse location.
 
 ### Links
-GitHub Page: [https://chadhayes91.github.io/Pathfinding_TetRobot/](https://chadhayes91.github.io/Pathfinding_TetRobot/){target="_blank"}    <br>
+GitHub Page: [https://chadhayes91.github.io/Pathfinding_TetRobot/](https://chadhayes91.github.io/Pathfinding_TetRobot/)   <br>
 GitHub Code: [https://github.com/ChadHayes91/Graphics_AStar_TetRobot](https://github.com/ChadHayes91/Graphics_AStar_TetRobot)
 
 ### Project Skills
