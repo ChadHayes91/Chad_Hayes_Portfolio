@@ -1,3 +1,6 @@
+##### My name is Chad Hayes. I am currently a Master's Student in Computer Science at the Georgia Institute of Technology with an expected graduation date of May 2021. This page is a collection of some of my academic projects during my Master's program.
+
+
 Each project below contains at least one link to a GitHub page which contains a project description as well as implementation details. If applicable, there is also a link to a GitHub repository for a particular project's code.
 
 ## Project 1: CS 6491 Computer Graphics <br> 3D Tetrahedron Robot with A* Pathfinding
