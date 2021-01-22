@@ -95,7 +95,7 @@ Note that all code files are Jupyter notebooks (Python). "preprocessing_COVID.ip
 * Convolutional Neural Network (CNN) Architectures and Applications (Supervised)
 * Scikit-learn & Keras
 
-## List of Courses Taken During MSCS with Descriptions
+## List of Courses Taken During MSCS
 
 * Artificial Intelligence (CS 6601)
   * Basic concepts and methods of artificial intelligence including both symbolic/conceptual and numerical/probabilistic techniques
