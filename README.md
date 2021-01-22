@@ -2,7 +2,7 @@ Each project below contains at least one link to a GitHub page which contains a 
 
 ## Project 1: CS 6491 Computer Graphics <br> 3D Tetrahedron Robot with A* Pathfinding
 
-This project used a tool called Processing (which serves a similar function as game engine) to create and render a robot with a tetrahedron core to move around on a canvas. The robot uses modern pathfinding techniques in order to reach the user's current mouse location.
+This project used a tool called "Processing" (which serves a similar function as game engine) to create and render a robot with a tetrahedron core to move around on a canvas. The robot uses modern pathfinding techniques in order to reach the user's current mouse location.
 
 ### Links
 GitHub Page: [https://chadhayes91.github.io/Pathfinding_TetRobot/](https://chadhayes91.github.io/Pathfinding_TetRobot/)   <br>
@@ -35,7 +35,7 @@ The code is in the "Assets" &rarr; "Scripts" folder.
 
 ## Project 3: CS 6491 Computer Graphics <br> 2D Well-Structured Vector Field Triangulation
 
-This project also used Processing (same as project 1) and an input vector field (a triangle mesh where each vertex also has a vector associated to it) to realign the input vector field so that the edges in the mesh's triangles follow the vector's directional flow.
+This project also used "Processing" (same as project 1) and an input vector field (a triangle mesh where each vertex also has a vector associated to it) to realign the input vector field so that the edges in the mesh's triangles follow the vector's directional flow.
 
 ### Links
 GitHub Page: [https://chadhayes91.github.io/Well-Structured-Vector-Field-Triangulation/](https://chadhayes91.github.io/Well-Structured-Vector-Field-Triangulation/) <br>
