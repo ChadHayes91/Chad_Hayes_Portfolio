@@ -120,5 +120,3 @@ Note that all code files are Jupyter notebooks (Python). "preprocessing_COVID.ip
   * Covers theory and practice of deep learning, including neural network and structured models, optimization algorithms, and applications to perception and Artificial Intelligence
 * Simulation of Biology (CS 7692)
   * Study different computer simulation methods for use in investigating biological systems, including bio-molecules, cells and full organisms
-* High Performance Computing (CSE 6220)
-  * Introduction to the design, analysis, and implementation of high performance computational science and engineering applications
