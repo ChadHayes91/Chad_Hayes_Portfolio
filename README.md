@@ -3,23 +3,7 @@
 
 Each project below contains at least one link to a GitHub page which contains a project description as well as implementation details. If applicable, there is also a link to a GitHub repository for a particular project's code.
 
-## Project 1: CS 7650 Natural Language Processing <br> Sentiment Analysis for Earning Transcripts (Financial Data)
-
-This project involved web-scraping transcripts for earning calls for various companies and performing sentiment analysis on the mined text data. We classified how good or bad the earning transcript was and compared the predicted label to the most recent hold rating from stock analysts for that particular company.
-
-Since this project required a report which required answering a number of questions about the project's methodology, we've added the questions as well as corresponding answers to serve as the project description (so the GitHub page is instead a PDF for this project).
-
-### Links
-GitHub Page (PDF): [https://github.com/ChadHayes91/NLP_Report/blob/main/Report_PDF/NLP_Project_Report.pdf](https://github.com/ChadHayes91/NLP_Report/blob/main/Report_PDF/NLP_Project_Report.pdf) <br>
-GitHub Code: [https://github.com/gniehaus/NLP-Earning-Transcripts](https://github.com/gniehaus/NLP-Earning-Transcripts)
-
-### Project Skills
-* Programming in Python
-* Machine Learning Algorithms (Supervised)
-* Natural Language Processing (Sentiment Analysis)
-* Scikit-learn & Keras
-
-## Project 2: CS 7643 Deep Learning <br> COVID-19 Image Classification
+## Project 1: COVID-19 Image Classification
 
 This project used as input X-ray images from patients with a variety of health conditions (healthy, with viral pneumonia, and with COVID-19) along with modern convolutional neural network architectures to classify the different types of X-rays.
 
@@ -34,6 +18,22 @@ Note that all code files are Jupyter notebooks (Python). "preprocessing_COVID.ip
 ### Project Skills
 * Programming in Python
 * Convolutional Neural Network (CNN) Architectures and Applications (Supervised)
+* Scikit-learn & Keras
+
+## Project 2: CS 7650 Natural Language Processing <br> Sentiment Analysis for Earning Transcripts (Financial Data)
+
+This project involved web-scraping transcripts for earning calls for various companies and performing sentiment analysis on the mined text data. We classified how good or bad the earning transcript was and compared the predicted label to the most recent hold rating from stock analysts for that particular company.
+
+Since this project required a report which required answering a number of questions about the project's methodology, we've added the questions as well as corresponding answers to serve as the project description (so the GitHub page is instead a PDF for this project).
+
+### Links
+GitHub Page (PDF): [https://github.com/ChadHayes91/NLP_Report/blob/main/Report_PDF/NLP_Project_Report.pdf](https://github.com/ChadHayes91/NLP_Report/blob/main/Report_PDF/NLP_Project_Report.pdf) <br>
+GitHub Code: [https://github.com/gniehaus/NLP-Earning-Transcripts](https://github.com/gniehaus/NLP-Earning-Transcripts)
+
+### Project Skills
+* Programming in Python
+* Machine Learning Algorithms (Supervised)
+* Natural Language Processing (Sentiment Analysis)
 * Scikit-learn & Keras
 
 ## Project 3: CS 6491 Computer Graphics <br> 3D Tetrahedron Robot with A* Pathfinding
