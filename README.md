@@ -7,7 +7,7 @@ Each project below contains at least one link to a GitHub page which contains a 
 
 This project used as input X-ray images from patients with a variety of health conditions (healthy, with viral pneumonia, and with COVID-19) along with modern convolutional neural network architectures to classify the different types of X-rays.
 
-Note this project required a report to accompany the code, so the report below serves as the project description outline of methodology (so the GitHub page is instead a PDF for this project).
+The PDF below serves as the project description and outline of methodology and the second link contains the code.
 
 ### Links
 GitHub Page (PDF): [https://github.com/ChadHayes91/DL_Report/blob/main/Report_PDF/DL_Project_Report.pdf](https://github.com/ChadHayes91/DL_Report/blob/main/Report_PDF/DL_Project_Report.pdf) <br>
