@@ -16,7 +16,7 @@ GitHub Code: [https://github.com/ChadHayes91/LSGAN-Abstract-Art-Code/tree/main](
 ### Project Skills
 * Programming in Python
 * Convolutional Neural Network (CNN) Architectures and Applications (Supervised) - specifically for generative models (GANs).
-* Pytorch
+* PyTorch
 
 ## Project 2: COVID-19 Image Classification
 
