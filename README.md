@@ -13,6 +13,10 @@ The GitHub Page link contains a project description and outline of methodology a
 GitHub Page: [https://chadhayes91.github.io/LSGAN-Abstract-Art/](https://chadhayes91.github.io/LSGAN-Abstract-Art/) <br>
 GitHub Code: [https://github.com/ChadHayes91/LSGAN-Abstract-Art-Code/tree/main](https://github.com/ChadHayes91/LSGAN-Abstract-Art-Code/tree/main)  <br> 
 
+### Project Skills
+* Programming in Python
+* Convolutional Neural Network (CNN) Architectures and Applications (Supervised) - specifically for generative models (GANs).
+* Pytorch
 
 ## Project 2: COVID-19 Image Classification
 
