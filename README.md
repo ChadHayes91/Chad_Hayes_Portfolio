@@ -10,7 +10,7 @@ This project generates abstract art using a Generative Adversarial Network using
 The GitHub Page link contains a project description and outline of methodology and the second link contains the code.
 
 ### Links
-GitHub Page (PDF): [https://chadhayes91.github.io/LSGAN-Abstract-Art/](https://chadhayes91.github.io/LSGAN-Abstract-Art/) <br>
+GitHub Page: [https://chadhayes91.github.io/LSGAN-Abstract-Art/](https://chadhayes91.github.io/LSGAN-Abstract-Art/) <br>
 GitHub Code: [https://github.com/ChadHayes91/LSGAN-Abstract-Art-Code/tree/main](https://github.com/ChadHayes91/LSGAN-Abstract-Art-Code/tree/main)  <br> 
 
 
