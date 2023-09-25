@@ -3,7 +3,18 @@
 
 Each project below contains at least one link to a GitHub page which contains a project description as well as implementation details. If applicable, there is also a link to a GitHub repository for a particular project's code.
 
-## Project 1: COVID-19 Image Classification
+## Project 1: Abstract Art Generation with a Generative Adversarial Network (GAN)
+
+This project generates abstract art using a Generative Adversarial Network using the LSGAN architecture.
+
+The GitHub Page link contains a project description and outline of methodology and the second link contains the code.
+
+### Links
+GitHub Page (PDF): [https://chadhayes91.github.io/LSGAN-Abstract-Art/](https://chadhayes91.github.io/LSGAN-Abstract-Art/) <br>
+GitHub Code: [https://github.com/ChadHayes91/LSGAN-Abstract-Art-Code/tree/main](https://github.com/ChadHayes91/LSGAN-Abstract-Art-Code/tree/main)  <br> 
+
+
+## Project 2: COVID-19 Image Classification
 
 This project used as input X-ray images from patients with a variety of health conditions (healthy, with viral pneumonia, and with COVID-19) along with modern convolutional neural network architectures to classify the different types of X-rays.
 
@@ -20,7 +31,7 @@ Note that all code files are Jupyter notebooks (Python). "preprocessing_COVID.ip
 * Convolutional Neural Network (CNN) Architectures and Applications (Supervised)
 * Scikit-learn & Keras
 
-## Project 2: CS 7650 Natural Language Processing <br> Sentiment Analysis for Earning Transcripts (Financial Data)
+## Project 3: CS 7650 Natural Language Processing <br> Sentiment Analysis for Earning Transcripts (Financial Data)
 
 This project involved web-scraping transcripts for earning calls for various companies and performing sentiment analysis on the mined text data. We classified how good or bad the earning transcript was and compared the predicted label to the most recent hold rating from stock analysts for that particular company.
 
@@ -36,7 +47,7 @@ GitHub Code: [https://github.com/gniehaus/NLP-Earning-Transcripts](https://githu
 * Natural Language Processing (Sentiment Analysis)
 * Scikit-learn & Keras
 
-## Project 3: CS 6491 Computer Graphics <br> 3D Tetrahedron Robot with A* Pathfinding
+## Project 4: CS 6491 Computer Graphics <br> 3D Tetrahedron Robot with A* Pathfinding
 
 This project used a tool called "Processing" (which serves a similar function as game engine) to create and render a robot with a tetrahedron core to move around on a canvas. The robot uses modern pathfinding techniques in order to reach the user's current mouse location.
 
@@ -51,7 +62,7 @@ GitHub Code: [https://github.com/ChadHayes91/Graphics_AStar_TetRobot](https://gi
 * Geometry & Trigonometry
 * Linear Algebra
 
-## Project 4: CS 6457 Video Game Design <br> Toy Souls
+## Project 5: CS 6457 Video Game Design <br> Toy Souls
 
 This project was a computer video game created in the game engine Unity. My responsibilities for this project included non-player character (NPC) behavior (also called AI), models, animations, and sounds.
 
@@ -69,7 +80,7 @@ The code is in the "Assets" &rarr; "Scripts" folder.
 * 3D Modeling & Animations
 * Geometry & Linear Algebra
 
-## Project 5: CS 6491 Computer Graphics <br> 2D Well-Structured Vector Field Triangulation
+## Project 6: CS 6491 Computer Graphics <br> 2D Well-Structured Vector Field Triangulation
 
 This project also used "Processing" (same as project 1) and an input vector field (a triangle mesh where each vertex also has a vector associated to it) to realign the input vector field so that the edges in the mesh's triangles follow the vector's directional flow.
 
@@ -83,7 +94,7 @@ GitHub Code: [https://github.com/ChadHayes91/Graphics_Vector_Field](https://gith
 * Geometry & Trigonometry
 * Linear Algebra
 
-## Project 6: CS 7641 Machine Learning <br> Expectations Investing
+## Project 7: CS 7641 Machine Learning <br> Expectations Investing
 
 This project used classical machine learning algorithms to aid in fundamental analysis of the stock market. We apply a variety of algorithms with hyperparameter tuning in order to see which algorithms perform better at this difficult task.
 
